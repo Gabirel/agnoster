@@ -228,3 +228,4 @@ function fish_prompt
   type -q svn; and prompt_svn
   prompt_finish
 end
+

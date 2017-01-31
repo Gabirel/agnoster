@@ -11,6 +11,10 @@
 set -g theme_display_user yes
 # set -g theme_hide_hostname yes
 # set -g default_user your_normal_user
+#
+#
+# \u2621 ==> ☡ 
+#
 
 
 
@@ -204,7 +208,7 @@ function prompt_status -d "the symbols for a non zero exit status, root and back
     # if superuser (uid == 0)
     set -l uid (id -u)
     if [ $uid -eq 0 ]
-      prompt_segment black yellow "⚡"
+      prompt_segment black yellow \u2621
     end
 
     # Jobs display

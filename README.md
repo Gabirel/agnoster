@@ -28,7 +28,7 @@ The result should look like this:
 - If the previous command failed (✘)
 - User @ Hostname (if user is not DEFAULT_USER, which can then be set in your profile)
 - Git status
-  - Branch () or detached head (➦)
+  - Branch (![branch-symbol](https://gist.githubusercontent.com/Gabirel/df85f42bbf992ff40335eac07cdf09bf/raw/c0b869c634a1fe5aff7f4794f5ba1af126a96111/branch-symbol.png)) or detached head (➦)
   - Current branch / SHA1 in detached head state
   - Dirty working directory (±, color change)
 - Working directory

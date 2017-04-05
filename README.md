@@ -33,5 +33,9 @@ The result should look like this:
   - Dirty working directory (±, color change)
 - Working directory
 - Elevated (root) privileges (☡ )
+    (NOTE: This is different from upstream because it may cause some issues. So I replaced it.)
+- Background jobs hints(⚙)
+- Time hints on the right
+- Square status
 
 ![Screenshot](https://gist.githubusercontent.com/agnoster/3712874/raw/screenshot.png)

@@ -38,4 +38,4 @@ The result should look like this:
 - Time hints on the right
 - Square status
 
-![Screenshot](https://gist.githubusercontent.com/agnoster/3712874/raw/screenshot.png)
+![Screenshot](https://gist.githubusercontent.com/Gabirel/df85f42bbf992ff40335eac07cdf09bf/raw/9fee756316fe74a823e8f230c94dc3c1175d1deb/full-demo.png)

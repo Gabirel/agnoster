@@ -21,7 +21,7 @@ Bash or Zsh user:
 
 The result should look like this:
 
-![Character Example](https://gist.githubusercontent.com/agnoster/3712874/raw/characters.png)
+![Character Example](https://gist.githubusercontent.com/Gabirel/df85f42bbf992ff40335eac07cdf09bf/raw/fbeea64d843bd5a8ce124220c23582b844bec90e/character-example.png)
 
 ## What does it show?
 
